@@ -1,0 +1,2 @@
+# trycatmehthane
+my gdi malware 
